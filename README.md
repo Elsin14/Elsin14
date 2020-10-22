@@ -1,9 +1,15 @@
-### Hi there 👋
+# console.log('Hi everyone, I'm Elsin 👋')
 
-Hi everyone, I'm Ramesh Fadatare! wave
-Software development is my profession and blogging, teaching is my passion.
-I'm a Software Engineer,
+#### Actualmente estudio Diseño y Desarrollo de Software.
+### Mis principales lenguajes / plataformas de programación son: Javascript, PHP, Node.js, Java y Python.
 
+
+# Connect with me
+- 👍 [Facebook](https://www.facebook.com/ElsinDrafus/)
+
+
+[![animated](https://raw.githubusercontent.com/Elsin14/Elsin14/master/img/readme.svg)]
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
