@@ -11,7 +11,7 @@
 [Facebook](https://www.facebook.com/ElsinDrafus/)
 
 
-![Alt Text](https://ibb.co/pQ2cBm1.gif)
+![Alt Text](https://ibb.co/pQ2cBm1)
 
 <!--
 Here are some ideas to get you started:
