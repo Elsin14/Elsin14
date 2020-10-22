@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
-**Elsin14/Elsin14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi everyone, I'm Ramesh Fadatare! wave
+Software development is my profession and blogging, teaching is my passion.
+I'm a Software Engineer,
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
