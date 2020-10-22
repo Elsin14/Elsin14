@@ -11,7 +11,7 @@
 [Facebook](https://www.facebook.com/ElsinDrafus/)
 
 
-<img src="https://ibb.co/pQ2cBm1" width="40" height="40" />
+![Alt Text](https://ibb.co/pQ2cBm1.gif)
 
 <!--
 Here are some ideas to get you started:
