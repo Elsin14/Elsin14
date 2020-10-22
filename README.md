@@ -11,7 +11,8 @@
 [Facebook](https://www.facebook.com/ElsinDrafus/)
 
 
-[![animated](https://raw.githubusercontent.com/Elsin14/Elsin14/master/img/readme.svg)]
+<img src="https://ibb.co/pQ2cBm1" width="40" height="40" />
+
 <!--
 Here are some ideas to get you started:
 
