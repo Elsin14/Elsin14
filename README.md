@@ -3,7 +3,7 @@
 ### I am currently studying Software Design and Development.
 ### My main programming languages / platforms are: Javascript, PHP, Node.js, Java and Python.
 
-
+<!--
 ## Connect with me
 
 
@@ -13,7 +13,7 @@
 
 
 ![Alt Text](https://i.ibb.co/W0nZ4TH/Drafus.gif)
-
+-->
 <!--
 Here are some ideas to get you started:
 
