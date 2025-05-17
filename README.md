@@ -1,6 +1,6 @@
 # console.log('Hi everyone, I'm Elsin 👋')
 
-### I am currently studying Software Design and Development.
+### I am currently studying Software Engineering.
 ### My main programming languages / platforms are: Javascript, PHP, Node.js, Java and Python.
 
 <!--
